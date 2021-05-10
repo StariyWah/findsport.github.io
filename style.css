@@ -820,9 +820,6 @@
         display: block;
     }
     .learn__more{
-        display: none;
-    }
-    .learn__more{
         gap: 8px;
     }
     .block__seven .heading__700{
