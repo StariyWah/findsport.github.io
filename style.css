@@ -69,7 +69,7 @@
     content: 'Подключиться';
     display: none;
 }
-.learn__arrow{
+.learn__arrow, .learn__arrow svg{
     width: 14px;
     height: 11px;
 }
