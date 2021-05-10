@@ -73,6 +73,9 @@
     width: 14px;
     height: 11px;
 }
+.learn__arrow{
+        display: flex;
+    }
 .block__one .heading__800{
     font-size: 64px;
     line-height: 130%;
@@ -821,9 +824,6 @@
     }
     .learn__more{
         font-size: 0 !important;
-    }
-    .learn__arrow{
-        display: flex;
     }
     .learn__more{
         gap: 8px;
