@@ -8,6 +8,9 @@
     font-family: Circe;
     src: url(fonts/Circe-Bold.ttf);
 }
+section{
+    overflow: hidden;
+}
 .sprites{
     display: none;
 }
