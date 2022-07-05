@@ -8,9 +8,6 @@
     font-family: Circe;
     src: url(fonts/Circe-Bold.ttf);
 }
-section{
-    overflow: hidden;
-}
 .sprites{
     display: none;
 }
@@ -47,6 +44,7 @@ section{
     overflow: hidden;
     position: relative;
     z-index: 0;
+    overflow: hidden;
 }
 .learn__more{
     max-width: 300px;
@@ -209,6 +207,7 @@ section{
     color: #0B163D;
     width: 100%;
     padding: 120px 0 24px 24px;
+    overflow: hidden;
 }
 .block__four-one{
     width: 100%;
@@ -288,6 +287,7 @@ section{
     justify-content: center;
     align-items: center;
     padding: 200px 24px 120px 24px;
+    overflow: hidden;
 }
 .block__five ul{
     display: flex;
@@ -337,6 +337,7 @@ section{
     background: #F6F7FC;
     padding: 120px 24px;
     text-align: center;
+    overflow: hidden;
 }
 .block__six img{
     cursor: pointer;
@@ -368,6 +369,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 .block__seven .swiper-container{
     display: flex;
@@ -485,6 +487,7 @@ section{
     display: flex;
     min-width: 0;
     justify-content: center;
+    overflow: hidden;
 }
 .block__eight .slide{
     background: #FFFFFF;
@@ -637,6 +640,7 @@ section{
     justify-content: center;
     align-items: center;
     padding: 120px 24px 40px 24px;
+    overflow: hidden;
 }
 .none__content{
     display: flex;
